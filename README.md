@@ -15,7 +15,7 @@
 Sou um desenvolvedor de software focado em construir soluções robustas de ponta a ponta. Tenho uma base forte em desenvolvimento Back-end, automação de testes e otimização de banco de dados, atuando na integração de sistemas complexos e automações financeiras (Gateways e ERPs). 
 
 - 🎓 Bacharel em Sistemas de Informação pela UFPB (2019 - 2025).
-- 🌱 Explorando e aprofundando conhecimentos em **React**, **React Native** e **Kotlin**.
+- 🌱 Explorando e aprofundando conhecimentos em **React**, **Laravel**  e **Kotlin**.
 
 ---
 
