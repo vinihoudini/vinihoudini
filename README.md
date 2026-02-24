@@ -15,9 +15,7 @@
 Sou um desenvolvedor de software focado em construir soluções robustas de ponta a ponta. Tenho uma base forte em desenvolvimento Back-end, automação de testes e otimização de banco de dados, atuando na integração de sistemas complexos e automações financeiras (Gateways e ERPs). 
 
 - 🎓 Bacharel em Sistemas de Informação pela UFPB (2019 - 2025).
-- 🔭 Atualmente trabalhando no meu TCC sobre a plataforma de chatbot **SafeSpace**.
-- 🌱 Explorando e aprofundando conhecimentos em **Python para Análise de Dados**, **React**, **React Native** e **Kotlin**.
-- ⚡ **Fora do código:** Você me encontra puxando ferro na academia, explorando o universo de Warhammer 40k ou jogando Baldur's Gate 3 e Marvel vs. Capcom 2.
+- 🌱 Explorando e aprofundando conhecimentos em **React**, **React Native** e **Kotlin**.
 
 ---
 
@@ -30,7 +28,6 @@ Sou um desenvolvedor de software focado em construir soluções robustas de pont
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle PL/SQL"/>
 </div>
 
