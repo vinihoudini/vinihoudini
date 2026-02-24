@@ -7,19 +7,23 @@ on:
   # Permite que você rode a action manualmente na aba "Actions"
   workflow_dispatch:
 
+# Garante que a Action tenha permissão para salvar as imagens
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha a partir dos seus commits
+      # Gera a animação da cobrinha com as CORES DO PERSONA 5
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: vinihoudini
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#e52521&color_dots=#ebedf0,#cccccc,#999999,#666666,#333333
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#e52521&color_dots=#161b22,#2b2b2b,#404040,#555555,#6e6e6e
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
