@@ -1,10 +1,14 @@
 <div align="center">
-  <h2>Olá! Eu sou o Vinícius Lucas 👋</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Persona_5_Phantom_Thieves_logo.svg/200px-Persona_5_Phantom_Thieves_logo.svg.png" width="120" alt="Phantom Thieves Logo" />
+  
+  <br><br>
+
+  <h2>Olá! Eu sou o Vinícius Lucas 🃏</h2>
   
   <p>Sou um desenvolvedor focado em construir soluções robustas de ponta a ponta.</p>
   
   <p>
-    💻 desenvolvedor full stack <strong>@Grau Técnico</strong> | 🌱 construindo o <strong>SafeSpace (TCC)</strong> | 💬 conecte-se <a href="https://linkedin.com/in/vinicius-lucass"><strong>@vinicius-lucass</strong></a>
+    🗡️ desenvolvedor full stack <strong>@Grau Técnico</strong> | 🎩 construindo o <strong>SafeSpace (TCC)</strong> | 🩸 conecte-se <a href="https://linkedin.com/in/vinicius-lucass"><strong>@vinicius-lucass</strong></a>
   </p>
 
   <br>
@@ -13,7 +17,7 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,cs,php,laravel,js,tailwind,docker,git,postman" alt="Minhas Stacks" />
+      <img src="https://skillicons.dev/icons?i=java,spring,cs,php,laravel,js,tailwind,docker,git,postman&theme=dark" alt="Minhas Stacks" />
     </a>
   </p>
 
@@ -29,5 +33,5 @@
 
   <br>
   
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=78e08f&height=100&section=footer" width="100%" alt="wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=e52521&height=100&section=footer" width="100%" alt="wave footer" />
 </div>
