@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Persona_5_Phantom_Thieves_logo.svg" width="110" alt="Phantom Thieves Logo" />
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Persona5/PhantomThieves.svg" width="120" alt="Phantom Thieves Logo" />
   
   <br><br>
 
