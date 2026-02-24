@@ -19,7 +19,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,spring,cs,php,laravel,js,tailwind,docker,git,postman&theme=dark" alt="Minhas Stacks" />
     </a>
-    <img src="https://img1.picmix.com/output/stamp/normal/0/7/4/3/2613470_313c5.gif" height="48" alt="Persona GIF" />
+    <img src="https://img1.picmix.com/output/stamp/normal/0/7/4/3/2613470_313c5.gif" height="90" alt="Persona GIF" />
   </p>
 
   <br>
