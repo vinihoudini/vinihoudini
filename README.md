@@ -3,12 +3,12 @@
   
   <br><br>
 
-  <h2>Olá! Eu sou o Vinícius Lucas 🃏</h2>
+  <h2>Olá! Me chamo Vinícius 🃏</h2>
   
   <p>Sou um desenvolvedor focado em construir soluções robustas de ponta a ponta.</p>
   
   <p>
-    🗡️ desenvolvedor full stack <strong>@Grau Técnico</strong> | 🎩 construindo o <strong>SafeSpace (TCC)</strong> | 🩸 conecte-se <a href="https://linkedin.com/in/vinicius-lucass"><strong>@vinicius-lucass</strong></a>
+    🗡️ desenvolvedor full stack <strong>@Grau Técnico</strong> | 🎩 construindo o <strong>O futuro</strong> | 🩸 conecte-se <a href="https://linkedin.com/in/vinicius-lucass"><strong>@vinicius-lucass</strong></a>
   </p>
 
   <br>
