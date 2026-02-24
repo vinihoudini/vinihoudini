@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.redd.it/0cijs0872yq81.png" width="400" alt="Phantom Thieves Logo" />
+  <img src="https://i.pinimg.com/originals/6e/f4/56/6ef456a56d3eafa70b9eff9528bc629d.gif" width="400" alt="Phantom Thieves Logo" />
   
   <br><br>
 
