@@ -8,7 +8,7 @@
   <p>Sou um desenvolvedor focado em construir soluções robustas de ponta a ponta.</p>
   
   <p>
-    🗡️ Desenvolvedor Java <strong>MV Saúde</strong> | 🎩 construindo o <strong>futuro</strong> | 🩸 conecte-se <a href="https://linkedin.com/in/vinicius-lucass"><strong>@vinicius-lucass</strong></a>
+    🗡️ Desenvolvedor Java <strong>MV Saúde</strong> | 🎩 Construindo o <strong>futuro</strong> | 🩸 Conecte-se <a href="https://linkedin.com/in/vinicius-lucass"><strong>@vinicius-lucass</strong></a>
   </p>
 
   <br>
